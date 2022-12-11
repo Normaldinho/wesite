@@ -2987,14 +2987,21 @@ ol {
 	}
 	.slicknav_btn {
 		margin: 0;
-		border-radius: 0;
+		border-radius: 2;
+		background-color: #bd0000;
 	}
 	.header-normal .slicknav_btn {
 		margin: 37px 0;
 	}
 	.slicknav_nav {
-		background: #222;
+		background: #bd0000;
 	}
+	.slicknav_menu {
+		text-align: right;
+	}
+	.slicknav_nav {
+		text-align: right;
+	}	
 	.slicknav_nav ul {
 		margin: 10px 15px;
 	}
@@ -3073,7 +3080,7 @@ ol {
 		text-align: center;
 	}
 	.slicknav_nav {
-		text-align: left;
+		text-align: center;
 	}
 	.logo {
 		float: none;
