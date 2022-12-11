@@ -3119,3 +3119,13 @@ ol {
 		left: 15%;
 	}
 }
+
+@media only screen and (max-width: 320px) {
+	.single-hero-item .hero-text h1 {
+		font-size: 40px;
+	}
+	.single-hero-item .hero-text h2 {
+		font-size: 40px;
+	}
+
+}
