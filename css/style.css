@@ -3093,12 +3093,7 @@ ol {
 	.single-hero-item .hero-text h2 {
 		font-size: 40px;
 	}
-	.hero-items .owl-nav button[type=button] {
-		left: -15px;
-	}
-	.hero-items .owl-nav button[type=button].owl-next {
-		right: 15px;
-	}
+	
 	.map-contact-detalis {
 		width: 319px;
 		right: 0;
